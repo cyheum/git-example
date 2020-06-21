@@ -1,1 +1,11 @@
 git init
+
+untracked file
+git add [filename] -> filename을 git에서 track
+
+
+commit = 세이브파일 상태 하나(이면서 그걸 저장하는 동작)
+commit에는 메시지가 있다. (message -> m으로 줄임)
+git commit -m "~~~~~~"
+
+
